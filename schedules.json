@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Push Day",
+    "exercises": [
+      { "name": "Panca Piana", "sets": 4, "reps": 8, "weight": 80 },
+      { "name": "Shoulder Press", "sets": 3, "reps": 10, "weight": 40 },
+      { "name": "Chest Fly", "sets": 3, "reps": 12, "weight": 14 },
+      { "name": "Tricep Pushdown", "sets": 3, "reps": 15, "weight": 25 },
+      { "name": "Alzate Laterali", "sets": 4, "reps": 15, "weight": 10 }
+    ]
+  },
+  {
+    "name": "Pull Day",
+    "exercises": [
+      { "name": "Trazioni", "sets": 4, "reps": 8 },
+      { "name": "Rematore", "sets": 4, "reps": 10, "weight": 70 },
+      { "name": "Lat Machine", "sets": 3, "reps": 12, "weight": 60 },
+      { "name": "Curl Bilanciere", "sets": 3, "reps": 10, "weight": 30 },
+      { "name": "Face Pull", "sets": 3, "reps": 15, "weight": 20 }
+    ]
+  },
+  {
+    "name": "Leg Day",
+    "exercises": [
+      { "name": "Squat", "sets": 4, "reps": 6, "weight": 100 },
+      { "name": "Leg Press", "sets": 3, "reps": 10, "weight": 150 },
+      { "name": "Romanian Deadlift", "sets": 3, "reps": 10, "weight": 80 },
+      { "name": "Leg Curl", "sets": 3, "reps": 12, "weight": 40 },
+      { "name": "Calf Raise", "sets": 4, "reps": 20, "weight": 60 }
+    ]
+  }
+]
